@@ -1,0 +1,13 @@
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\bin\Debug\netcoreapp3.1\JogoRpgBlue.exe
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\bin\Debug\netcoreapp3.1\JogoRpgBlue.deps.json
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\bin\Debug\netcoreapp3.1\JogoRpgBlue.runtimeconfig.json
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\bin\Debug\netcoreapp3.1\JogoRpgBlue.runtimeconfig.dev.json
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\bin\Debug\netcoreapp3.1\JogoRpgBlue.dll
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\bin\Debug\netcoreapp3.1\JogoRpgBlue.pdb
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.csprojAssemblyReference.cache
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.AssemblyInfoInputs.cache
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.AssemblyInfo.cs
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.csproj.CoreCompileInputs.cache
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.dll
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.pdb
+C:\_BlueCsharp\JogoRpgBlue\JogoRpgBlue\obj\Debug\netcoreapp3.1\JogoRpgBlue.genruntimeconfig.cache
